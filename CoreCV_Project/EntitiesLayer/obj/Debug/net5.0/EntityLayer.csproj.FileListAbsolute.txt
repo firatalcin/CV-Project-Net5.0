@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\EntityLayer.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CoreCV_Project\EntitiesLayer\obj\Debug\net5.0\ref\EntityLayer.dll
