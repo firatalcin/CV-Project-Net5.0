@@ -1,0 +1,31 @@
+﻿@using CoreCV_Project.EntityLayer.Concrete
+@model Feature
+@{
+    ViewData["Title"] = "EditFeature";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card-header border-0">
+    <h3 class="mb-0">Özellik Düzenleme Sayfası</h3>
+</div>
+@using (Html.BeginForm("EditFeature", "Feature", FormMethod.Post))
+{
+    <br />
+    @Html.HiddenFor(x => x.FeatureId)
+    @Html.Label("Başlık")
+    @Html.TextBoxFor(x => x.Header, new { @class="form-control"})
+    @Html.ValidationMessageFor(x => x.Header)
+    <br />
+    @Html.Label("Ad Soyad")
+    @Html.TextBoxFor(x => x.Name, new { @class="form-control"})
+    @Html.ValidationMessageFor(x => x.Name)
+    <br />
+    @Html.Label("Ünvan")
+    @Html.TextBoxFor(x => x.Title, new { @class="form-control"})
+    @Html.ValidationMessageFor(x => x.Title)
+    <br />
+
+    <button class="btn btn-info">Güncelle</button>
+
+}
+
