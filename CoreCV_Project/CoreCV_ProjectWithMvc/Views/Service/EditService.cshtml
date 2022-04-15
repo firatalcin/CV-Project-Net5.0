@@ -1,0 +1,26 @@
+﻿@using CoreCV_Project.EntityLayer.Concrete
+@model Service
+@{
+    ViewData["Title"] = "EditService";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card-header border-0">
+    <h3 class="mb-0">Hizmet Düzenleme Sayfası</h3>
+</div>
+@using (Html.BeginForm("EditService", "Service", FormMethod.Post))
+{
+    <br />
+    @Html.HiddenFor(x => x.ServiceId)
+    @Html.Label("Başlık")
+    @Html.TextBoxFor(x => x.Title, new { @class="form-control"})
+    @Html.ValidationMessageFor(x => x.Title)
+    <br />
+    @Html.Label("Görsel")
+    @Html.TextBoxFor(x => x.ImageUrl, new { @class="form-control"})
+    @Html.ValidationMessageFor(x => x.ImageUrl)
+    <br /> 
+    <button class="btn btn-info">Kaydet</button>
+
+}
+
