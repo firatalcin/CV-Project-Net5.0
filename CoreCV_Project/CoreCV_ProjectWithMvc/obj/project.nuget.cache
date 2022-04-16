@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kcZK6pd98euefF+ooIXkejipH/vWk/2lj2OeUTjVrGlMAoS3iEaQmNLbywLFxYxNc33eajK52WFRkU+l434WsQ==",
+  "dgSpecHash": "m2FTJuf0MoUFygOqr+UN5WxjNwgS64U3v6X4tvbnbCKSJiCFFKehIW7F1yOrE2fiqDEs3pW/g7GYzgmaQHRTZw==",
   "success": true,
-  "projectFilePath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\CoreCV_ProjectWithMvc\\CoreCV_ProjectWithMvc.csproj",
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\CoreCV_ProjectWithMvc\\CoreCV_ProjectWithMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firatalcin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

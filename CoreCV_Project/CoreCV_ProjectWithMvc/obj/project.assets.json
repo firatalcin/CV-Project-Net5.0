@@ -7219,11 +7219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\CoreCV_ProjectWithMvc\\CoreCV_ProjectWithMvc.csproj",
+      "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\CoreCV_ProjectWithMvc\\CoreCV_ProjectWithMvc.csproj",
       "projectName": "CoreCV_ProjectWithMvc",
-      "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\CoreCV_ProjectWithMvc\\CoreCV_ProjectWithMvc.csproj",
+      "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\CoreCV_ProjectWithMvc\\CoreCV_ProjectWithMvc.csproj",
       "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-      "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\CoreCV_ProjectWithMvc\\obj\\",
+      "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\CoreCV_ProjectWithMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7244,14 +7244,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\EntitiesLayer\\EntityLayer.csproj": {
-              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\EntitiesLayer\\EntityLayer.csproj"
+            "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\EntitiesLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\EntitiesLayer\\EntityLayer.csproj"
             }
           }
         }
@@ -7309,7 +7309,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

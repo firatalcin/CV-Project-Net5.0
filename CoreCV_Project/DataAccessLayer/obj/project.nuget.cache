@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4mkgkuMfARsL6p6lN2mvNISRHZ5AvKwlKVWU71N9uVr5lcT4JBR6ag2nKK9WaeKL4VjwXJqMjBd/00Zrom2t3w==",
+  "dgSpecHash": "34YkuI++92dNW/OgsasR0uJvSatSt+gUW94p87XP7uDGppjGj5Oi0RjtCU8JEUYAQdNhq8hKKIVbCmIzXgtK9A==",
   "success": true,
-  "projectFilePath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firatalcin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

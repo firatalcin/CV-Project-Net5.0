@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xkax4a21Ql80yppoYt0mjBVDR0HV97t1KM4sbABq7kLzlQD7wLNKtyaXYBd8si0nRSXhZNmzMg/x9i29sZ/Cjg==",
+  "dgSpecHash": "M//0S7JbJ5eFkJCrKv1K2UFvZ8k7xO67otEJdp4BI6y+PKurusf+LP884B5Qyc/YyeGBj8nigoTT5lnd6ikBgg==",
   "success": true,
-  "projectFilePath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\EntitiesLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\EntitiesLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firatalcin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

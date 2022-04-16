@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a0rFXVf7pSLgUqMLrPyhH36nJ5Ks7b9+wrqnlESJfInKAdLwGSNOG23mSzN0HKKJ97Ocb1525KumAPzqSyvXLQ==",
+  "dgSpecHash": "u58Gj5dUhe172FwhhPDr3BETLymEKYgIMZe4ujPCRYdg6zGSAhaeP2wI+0oBm5uR/Fz4/EL0v49UjqZyEoOP6w==",
   "success": true,
-  "projectFilePath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CoreCV_Project\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\Mini-CV-Project-Net5.0\\CoreCV_Project\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firatalcin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
