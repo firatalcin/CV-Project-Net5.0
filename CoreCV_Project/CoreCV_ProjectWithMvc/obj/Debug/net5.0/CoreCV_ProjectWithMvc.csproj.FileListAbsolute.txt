@@ -344,3 +344,5 @@ C:\Users\firatalcin\Documents\GitHub\Mini-CV-Project-Net5.0\CoreCV_Project\CoreC
 C:\Users\firatalcin\Documents\GitHub\Mini-CV-Project-Net5.0\CoreCV_Project\CoreCV_ProjectWithMvc\obj\Debug\net5.0\CoreCV_ProjectWithMvc.genruntimeconfig.cache
 C:\Users\firatalcin\Documents\GitHub\Mini-CV-Project-Net5.0\CoreCV_Project\CoreCV_ProjectWithMvc\obj\Debug\net5.0\ref\CoreCV_ProjectWithMvc.dll
 C:\Users\firatalcin\Documents\GitHub\Mini-CV-Project-Net5.0\CoreCV_Project\CoreCV_ProjectWithMvc\obj\Debug\net5.0\Razor\Views\Shared\Components\Last5Projects\Default.cshtml.g.cs
+C:\Users\firatalcin\Documents\GitHub\Mini-CV-Project-Net5.0\CoreCV_Project\CoreCV_ProjectWithMvc\obj\Debug\net5.0\Razor\Views\Admin\NavigationPartial.cshtml.g.cs
+C:\Users\firatalcin\Documents\GitHub\Mini-CV-Project-Net5.0\CoreCV_Project\CoreCV_ProjectWithMvc\obj\Debug\net5.0\Razor\Views\Admin\NewSidebar.cshtml.g.cs
