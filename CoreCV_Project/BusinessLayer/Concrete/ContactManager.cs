@@ -17,7 +17,6 @@ namespace BusinessLayer.Concrete
         {
             _contactDal = contactDal;
         }
-
         public void TAdd(Contact entity)
         {
            _contactDal.Add(entity);

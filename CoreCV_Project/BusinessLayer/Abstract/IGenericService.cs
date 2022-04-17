@@ -11,7 +11,7 @@ namespace CoreCV_Project.BusinessLayer.Abstract
         void TAdd(T entity);
         void TRemove(T entity);
         void TUpdate(T entity);
-        List<T> GetList();
+        List<T> TGetList();
         T TGetById(int id);
     }
 }

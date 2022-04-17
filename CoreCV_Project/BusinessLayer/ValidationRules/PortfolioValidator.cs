@@ -14,9 +14,6 @@ namespace BusinessLayer.ValidationRules
         {
             RuleFor(x => x.Name).NotEmpty().WithMessage("Bu alan boş geçilemez");
             RuleFor(x => x.ImageUrl).NotEmpty().WithMessage("Bu alan boş geçilemez");
-            RuleFor(x => x.ImageUrl2).NotEmpty().WithMessage("Bu alan boş geçilemez");
-            RuleFor(x => x.Price).NotEmpty().WithMessage("Bu alan boş geçilemez");
-            RuleFor(x => x.Value).NotEmpty().WithMessage("Bu alan boş geçilemez");
             RuleFor(x => x.Name).MinimumLength(5).WithMessage("En az 5 karakter kullanılmalıdır");
             RuleFor(x => x.Name).MaximumLength(100).WithMessage("En fazla 100 karakter kullanılmalıdır.");
         }

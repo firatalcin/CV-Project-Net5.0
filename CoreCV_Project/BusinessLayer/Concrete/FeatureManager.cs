@@ -42,5 +42,10 @@ namespace BusinessLayer.Concrete
         {
             _featureDal.Update(entity);
         }
+
+        public List<Feature> GetList()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
