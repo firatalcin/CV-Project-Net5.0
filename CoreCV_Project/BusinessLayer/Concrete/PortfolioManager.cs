@@ -33,6 +33,11 @@ namespace BusinessLayer.Concrete
             return _portfolioDal.GetList();
         }
 
+        public List<Portfolio> TGetListbyFilter()
+        {
+            throw new NotImplementedException();
+        }
+
         public void TRemove(Portfolio entity)
         {
             _portfolioDal.Delete(entity);

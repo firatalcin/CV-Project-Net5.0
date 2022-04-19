@@ -3,6 +3,7 @@ using CoreCV_Project.DataAccessLayer.Concrete.EntityFramework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -25,6 +26,14 @@ namespace CoreCV_Project.DataAccessLayer.Concrete.Repository
             {
                 context.Remove(entity);
                 context.SaveChanges();
+            }
+        }
+
+        public List<TEntity> GetbyFilter(Expression<Func<TEntity, bool>> filter)
+        {
+            using (var context = new Context())
+            {
+                return context.Set<TEntity>().Where(filter).ToList();
             }
         }
 

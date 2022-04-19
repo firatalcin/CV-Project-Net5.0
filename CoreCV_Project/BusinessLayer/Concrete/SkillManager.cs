@@ -33,6 +33,11 @@ namespace BusinessLayer.Concrete
             return _skillDal.GetList();
         }
 
+        public List<Skill> TGetListbyFilter()
+        {
+            throw new NotImplementedException();
+        }
+
         public void TRemove(Skill entity)
         {
             _skillDal.Delete(entity);

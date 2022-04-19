@@ -33,6 +33,11 @@ namespace BusinessLayer.Concrete
             return _testimonialDal.GetList();
         }
 
+        public List<Testimonial> TGetListbyFilter()
+        {
+            throw new NotImplementedException();
+        }
+
         public void TRemove(Testimonial entity)
         {
             _testimonialDal.Delete(entity);

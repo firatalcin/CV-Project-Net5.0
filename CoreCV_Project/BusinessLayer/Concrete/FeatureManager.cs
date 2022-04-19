@@ -47,5 +47,10 @@ namespace BusinessLayer.Concrete
         {
             throw new NotImplementedException();
         }
+
+        public List<Feature> TGetListbyFilter()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

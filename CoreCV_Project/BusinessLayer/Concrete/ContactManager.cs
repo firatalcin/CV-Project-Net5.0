@@ -32,6 +32,11 @@ namespace BusinessLayer.Concrete
             return _contactDal.GetList();
         }
 
+        public List<Contact> TGetListbyFilter()
+        {
+            throw new NotImplementedException();
+        }
+
         public void TRemove(Contact entity)
         {
             _contactDal.Delete(entity);

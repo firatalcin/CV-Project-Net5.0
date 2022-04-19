@@ -13,5 +13,6 @@ namespace CoreCV_Project.BusinessLayer.Abstract
         void TUpdate(T entity);
         List<T> TGetList();
         T TGetById(int id);
+        List<T> TGetListbyFilter();
     }
 }

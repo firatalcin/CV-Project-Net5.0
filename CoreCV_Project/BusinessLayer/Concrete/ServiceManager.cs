@@ -34,6 +34,11 @@ namespace BusinessLayer.Concrete
             return _serviceDal.GetList();
         }
 
+        public List<Service> TGetListbyFilter()
+        {
+            throw new NotImplementedException();
+        }
+
         public void TRemove(Service entity)
         {
             _serviceDal.Delete(entity);

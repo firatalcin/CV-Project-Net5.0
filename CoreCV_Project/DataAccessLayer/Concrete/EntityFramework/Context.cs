@@ -1,4 +1,5 @@
 ﻿using CoreCV_Project.EntityLayer.Concrete;
+using EntityLayer.Concrete;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -25,7 +26,7 @@ namespace CoreCV_Project.DataAccessLayer.Concrete.EntityFramework
         public DbSet<Skill> Skills { get; set; }
         public DbSet<SocialMedia> SocialMedias { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
-        
+        public DbSet<ToDoList> ToDoLists { get; set; }
 
     }
 }

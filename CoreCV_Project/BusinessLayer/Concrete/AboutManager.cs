@@ -42,5 +42,10 @@ namespace CoreCV_Project.BusinessLayer.Concrete
         {
             _aboutDal.Update(entity);
         }
+
+        public List<About> TGetListbyFilter()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
