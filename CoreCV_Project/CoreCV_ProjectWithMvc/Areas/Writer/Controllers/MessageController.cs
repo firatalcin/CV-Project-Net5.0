@@ -1,5 +1,5 @@
 ﻿using BusinessLayer.Concrete;
-using DataAccessLayer.Concrete;
+using CoreCV_Project.DataAccessLayer.Concrete.EntityFramework;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Identity;
@@ -44,13 +44,13 @@ namespace Core_Proje.Areas.Writer.Controllers
         [Route("MessageDetails/{id}")]
         public IActionResult MessageDetails(int id)
         {
-            WriterMessage writerMessage = writerMessageManager.TGetByID(id);
+            WriterMessage writerMessage = writerMessageManager.TGetById(id);
             return View(writerMessage);
         }
         [Route("ReceiverMessageDetails/{id}")]
         public IActionResult ReceiverMessageDetails(int id)
         {
-            WriterMessage writerMessage = writerMessageManager.TGetByID(id);
+            WriterMessage writerMessage = writerMessageManager.TGetById(id);
             return View(writerMessage);
         }
         [HttpGet]

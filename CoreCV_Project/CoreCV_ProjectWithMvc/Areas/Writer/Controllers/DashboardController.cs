@@ -1,4 +1,4 @@
-﻿using DataAccessLayer.Concrete;
+﻿using CoreCV_Project.DataAccessLayer.Concrete.EntityFramework;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
