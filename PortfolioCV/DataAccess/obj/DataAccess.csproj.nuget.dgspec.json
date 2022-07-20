@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\PortfolioCV.Web\\PortfolioCV.Web.csproj": {}
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\PortfolioCV.Web\\PortfolioCV.Web.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\PortfolioCV.Web\\PortfolioCV.Web.csproj",
-        "projectName": "PortfolioCV.Web",
-        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\PortfolioCV.Web\\PortfolioCV.Web.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\PortfolioCV.Web\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,9 +76,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

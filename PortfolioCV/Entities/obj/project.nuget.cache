@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jiJQ8Z+24ZuhGwH77F1v19zDsjc/PI3V+Wv/oBvI6FCfPBA5lIuj8QUeDBkvLI1uKhUpGFVKHLK93K0PO8BwAQ==",
+  "dgSpecHash": "LhP51UWLMtlpNFooyqWISV1rWvg/d5cMyYKQ9TwaigP0rGp1l29P8P6OZCe5nf3/z4tPdJGFVEH7syKhBiJ8dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\PortfolioCV.Web\\PortfolioCV.Web.csproj",
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firatalcin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
