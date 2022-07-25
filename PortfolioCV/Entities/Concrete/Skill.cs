@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    public class Skill
+    public class Skill : BaseEntity
     {
-        public int Id { get; set; }
         public string Title { get; set; }
         public string Value { get; set; }
     }

@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    public class Experience
+    public class Experience : BaseEntity
     {
-        public int Id { get; set; }
         public string Name { get; set; }
         public string Date { get; set; }
         public string ImageUrl { get; set; }

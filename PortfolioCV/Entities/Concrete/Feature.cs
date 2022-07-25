@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    public class Feature
+    public class Feature : BaseEntity
     {
-        public int Id { get; set; }
         public string Header { get; set; }
         public string Name { get; set; }
         public string Title { get; set; }

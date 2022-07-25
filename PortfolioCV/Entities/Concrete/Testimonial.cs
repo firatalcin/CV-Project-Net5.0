@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    public class Testimonial
+    public class Testimonial : BaseEntity
     {
-        public int Id { get; set; }
         public string ClientName { get; set; }
         public string Company { get; set; }
         public string Comment { get; set; }

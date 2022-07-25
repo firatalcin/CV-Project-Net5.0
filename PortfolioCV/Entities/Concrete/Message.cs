@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    public class Message
+    public class Message : BaseEntity
     {
-        public int Id { get; set; }
         public string Name { get; set; }
         public string Mail { get; set; }
         public string Content { get; set; }

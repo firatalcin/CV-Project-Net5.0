@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    public class Service
+    public class Service : BaseEntity
     {
-        public int Id { get; set; }
         public string Title { get; set; }
         public string ImageUrl { get; set; }
     }
