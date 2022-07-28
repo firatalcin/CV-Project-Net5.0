@@ -8,5 +8,21 @@ namespace PortfolioCV.Web.Controllers
         {
             return View();
         }
+
+        public PartialViewResult HeaderPartial()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult NavbarPartial()
+        {
+            return PartialView();
+        }
+
+        [HttpGet]
+        public PartialViewResult SendMessage()
+        {
+            return PartialView();
+        }
     }
 }

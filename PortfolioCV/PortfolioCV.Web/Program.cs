@@ -1,4 +1,7 @@
+using Business.Abstract;
+using Business.Concrete;
 using DataAccess.Context;
+using DataAccess.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,6 +10,10 @@ builder.Services.AddDbContext<ProjectContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("mssql"));
 });
+
+builder.Services.AddScoped<IFeatureService, FeatureManager>();
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
