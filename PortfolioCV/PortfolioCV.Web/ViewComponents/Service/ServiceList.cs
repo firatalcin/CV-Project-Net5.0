@@ -5,17 +5,17 @@ namespace PortfolioCV.Web.ViewComponents.Service
 {
     public class ServiceList : ViewComponent
     {
-        private readonly IServiceService _service;
+        private readonly IServiceService _serviceService;
 
-        public ServiceList(IServiceService service)
+        public ServiceList(IServiceService serviceService)
         {
-            _service = service;
+            _serviceService = serviceService;
         }
 
         public IViewComponentResult Invoke()
         {
-            var values = _service.GetAll();
-            return View(values);
+            var list = _serviceService.GetAll();
+            return View(list);
         }
     }
 }
