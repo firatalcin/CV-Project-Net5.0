@@ -12,6 +12,15 @@ builder.Services.AddDbContext<ProjectContext>(options =>
 });
 
 builder.Services.AddScoped<IFeatureService, FeatureManager>();
+builder.Services.AddScoped<IAboutService, AboutManager>();
+builder.Services.AddScoped<IContactService, ContactManager>();
+builder.Services.AddScoped<IExperienceService, ExperienceManager>();
+builder.Services.AddScoped<IMessageService, MessageManager>();
+builder.Services.AddScoped<IPortfolioService, PortfolioManager>();
+builder.Services.AddScoped<IServiceService, ServiceManager>();
+builder.Services.AddScoped<ISkillService, SkillManager>();
+builder.Services.AddScoped<ISocialMediaService, SocialMediaManager>();
+builder.Services.AddScoped<ITestimonialService, TestimonialManager>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 

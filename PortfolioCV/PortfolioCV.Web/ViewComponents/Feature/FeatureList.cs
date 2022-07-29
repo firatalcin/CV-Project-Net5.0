@@ -1,6 +1,4 @@
 ﻿using Business.Abstract;
-using Business.Concrete;
-using DataAccess.Concrete.EntityFramework;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PortfolioCV.Web.ViewComponents.Feature
