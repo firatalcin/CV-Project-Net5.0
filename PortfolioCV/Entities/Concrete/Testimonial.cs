@@ -9,6 +9,7 @@ namespace Entities.Concrete
     public class Testimonial : BaseEntity
     {
         public string ClientName { get; set; }
+        public string Title { get; set; }
         public string Company { get; set; }
         public string Comment { get; set; }
         public string ImageUrl { get; set; }
