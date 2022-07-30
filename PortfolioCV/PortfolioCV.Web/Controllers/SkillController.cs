@@ -26,5 +26,26 @@ namespace PortfolioCV.Web.Controllers
             _skillService.Add(s);
             return RedirectToAction("Index");
         }
+
+        public IActionResult DeleteSkill(int id)
+        {
+            var skill = _skillService.GetById(id);
+            _skillService.Delete(skill);
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult EditSkill(int id)
+        {
+            var skill = _skillService.GetById(id);
+            return View(skill);
+        }
+
+        [HttpPost]
+        public IActionResult EditSkill(Skill s)
+        {
+            _skillService.Update(s);
+            return RedirectToAction("Index");
+        }
     }
 }
