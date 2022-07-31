@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uhPye8zYKoEQ9AkK+46gRbKReyFhaFywI2IfpiLOdR7nFi6o1pTudl7Pt0K/S8kZm7tMucO2cDIa5O+KxYCY7g==",
+  "dgSpecHash": "FTXuxUoik90sgN+nWMfb7hkjpMSRQ8m0fXYoE4+dl98LEZFeZBkS9m/w7LONzUERUcyfZ/nOJXpOphpEnSZung==",
   "success": true,
   "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\PortfolioCVProject\\PortfolioCV\\PortfolioCV.Web\\PortfolioCV.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.0\\fluentvalidation.aspnetcore.11.0.0.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.0.0\\fluentvalidation.dependencyinjectionextensions.11.0.0.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
